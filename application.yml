@@ -1,0 +1,7 @@
+oauth:
+  client:
+    name: app-teste-client-name
+    secret: app-teste-client-secret
+
+jwt:
+  secret: APP-TESTE-JWT-SECRET
