@@ -1,6 +1,6 @@
 oauth:
   client:
-    name: app-teste-client-name
+    id: app-teste-client-id
     secret: app-teste-client-secret
 
 jwt:
